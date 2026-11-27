@@ -1,0 +1,132 @@
+{
+    "topology_id": "rail_001",
+    "nodes": [
+        {
+            "id": "A",
+            "type": "station"
+        },
+        {
+            "id": "B",
+            "type": "switch"
+        },
+        {
+            "id": "C",
+            "type": "endpoint"
+        },
+        {
+            "id": "D",
+            "type": "endpoint"
+        }
+    ],
+    "tracks": [
+        {
+            "id": "T1",
+            "from": "A",
+            "to": "B"
+        },
+        {
+            "id": "T2",
+            "from": "B",
+            "to": "C"
+        },
+        {
+            "id": "T3",
+            "from": "B",
+            "to": "D"
+        }
+    ],
+    "switch_answers": {
+        "B": {
+            "state": "straight",
+            "incoming_track": "T1",
+            "active_track": "T2",
+            "inactive_track": "T3"
+        }
+    },
+    "faulty_tracks": [],
+    "crossings": [],
+    "connectivity": {
+        "A->B": {
+            "reachable": true,
+            "route_tracks": [
+                "T1"
+            ]
+        },
+        "A->C": {
+            "reachable": true,
+            "route_tracks": [
+                "T1",
+                "T2"
+            ]
+        },
+        "A->D": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "B->A": {
+            "reachable": true,
+            "route_tracks": [
+                "T1"
+            ]
+        },
+        "B->C": {
+            "reachable": true,
+            "route_tracks": [
+                "T2"
+            ]
+        },
+        "B->D": {
+            "reachable": true,
+            "route_tracks": [
+                "T3"
+            ]
+        },
+        "C->A": {
+            "reachable": true,
+            "route_tracks": [
+                "T2",
+                "T1"
+            ]
+        },
+        "C->B": {
+            "reachable": true,
+            "route_tracks": [
+                "T2"
+            ]
+        },
+        "C->D": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "D->A": {
+            "reachable": true,
+            "route_tracks": [
+                "T3",
+                "T1"
+            ]
+        },
+        "D->B": {
+            "reachable": true,
+            "route_tracks": [
+                "T3"
+            ]
+        },
+        "D->C": {
+            "reachable": false,
+            "route_tracks": []
+        }
+    },
+    "counterfactuals": [
+        {
+            "switch_id": "B",
+            "from_state": "straight",
+            "to_state": "diverted",
+            "newly_reachable": [
+                "A->D"
+            ],
+            "newly_blocked": [
+                "A->C"
+            ]
+        }
+    ]
+}

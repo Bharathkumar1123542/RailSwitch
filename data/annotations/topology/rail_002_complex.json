@@ -1,0 +1,87 @@
+{
+  "topology_id": "rail_002_complex",
+  "nodes": [
+    {
+      "id": "S1",
+      "type": "station"
+    },
+    {
+      "id": "SW1",
+      "type": "switch"
+    },
+    {
+      "id": "SW2",
+      "type": "switch"
+    },
+    {
+      "id": "CR1",
+      "type": "crossing"
+    },
+    {
+      "id": "S2",
+      "type": "station"
+    },
+    {
+      "id": "S3",
+      "type": "station"
+    },
+    {
+      "id": "D1",
+      "type": "endpoint"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "T1",
+      "from": "S1",
+      "to": "SW1"
+    },
+    {
+      "id": "T2",
+      "from": "SW1",
+      "to": "SW2"
+    },
+    {
+      "id": "T3",
+      "from": "SW1",
+      "to": "S3"
+    },
+    {
+      "id": "T4",
+      "from": "SW2",
+      "to": "CR1"
+    },
+    {
+      "id": "T5",
+      "from": "CR1",
+      "to": "S2"
+    },
+    {
+      "id": "T6",
+      "from": "SW2",
+      "to": "D1",
+      "is_faulty": true
+    }
+  ],
+  "switches": [
+    {
+      "id": "SW1",
+      "state": "diverted",
+      "incoming_track": "T1",
+      "straight_track": "T2",
+      "diverted_track": "T3"
+    },
+    {
+      "id": "SW2",
+      "state": "straight",
+      "incoming_track": "T2",
+      "straight_track": "T4",
+      "diverted_track": "T6"
+    }
+  ],
+  "crossings": [
+    {
+      "id": "CR1"
+    }
+  ]
+}

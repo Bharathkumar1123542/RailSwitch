@@ -1,0 +1,52 @@
+
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "RailSwitch Railway Topology",
+  "type": "object",
+  "required": ["topology_id", "nodes", "tracks"],
+  "properties": {
+    "topology_id": {
+      "type": "string"
+    },
+    "nodes": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "type"],
+        "properties": {
+          "id": { "type": "string" },
+          "type": {
+            "type": "string",
+            "enum": ["station", "junction", "switch", "endpoint"]
+          }
+        }
+      }
+    },
+    "tracks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "from", "to"],
+        "properties": {
+          "id": { "type": "string" },
+          "from": { "type": "string" },
+          "to": { "type": "string" }
+        }
+      }
+    },
+    "switches": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "state"],
+        "properties": {
+          "id": { "type": "string" },
+          "state": {
+            "type": "string",
+            "enum": ["straight", "diverted"]
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,339 @@
+{
+    "topology_id": "rail_002_complex",
+    "nodes": [
+        {
+            "id": "S1",
+            "type": "station"
+        },
+        {
+            "id": "SW1",
+            "type": "switch"
+        },
+        {
+            "id": "SW2",
+            "type": "switch"
+        },
+        {
+            "id": "CR1",
+            "type": "crossing"
+        },
+        {
+            "id": "S2",
+            "type": "station"
+        },
+        {
+            "id": "S3",
+            "type": "station"
+        },
+        {
+            "id": "D1",
+            "type": "endpoint"
+        }
+    ],
+    "tracks": [
+        {
+            "id": "T1",
+            "from": "S1",
+            "to": "SW1"
+        },
+        {
+            "id": "T2",
+            "from": "SW1",
+            "to": "SW2"
+        },
+        {
+            "id": "T3",
+            "from": "SW1",
+            "to": "S3"
+        },
+        {
+            "id": "T4",
+            "from": "SW2",
+            "to": "CR1"
+        },
+        {
+            "id": "T5",
+            "from": "CR1",
+            "to": "S2"
+        },
+        {
+            "id": "T6",
+            "from": "SW2",
+            "to": "D1",
+            "is_faulty": true
+        }
+    ],
+    "switch_answers": {
+        "SW1": {
+            "state": "diverted",
+            "incoming_track": "T1",
+            "active_track": "T3",
+            "inactive_track": "T2"
+        },
+        "SW2": {
+            "state": "straight",
+            "incoming_track": "T2",
+            "active_track": "T4",
+            "inactive_track": "T6"
+        }
+    },
+    "faulty_tracks": [
+        "T6"
+    ],
+    "crossings": [
+        "CR1"
+    ],
+    "connectivity": {
+        "S1->SW1": {
+            "reachable": true,
+            "route_tracks": [
+                "T1"
+            ]
+        },
+        "S1->SW2": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "S1->CR1": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "S1->S2": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "S1->S3": {
+            "reachable": true,
+            "route_tracks": [
+                "T1",
+                "T3"
+            ]
+        },
+        "S1->D1": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "SW1->S1": {
+            "reachable": true,
+            "route_tracks": [
+                "T1"
+            ]
+        },
+        "SW1->SW2": {
+            "reachable": true,
+            "route_tracks": [
+                "T2"
+            ]
+        },
+        "SW1->CR1": {
+            "reachable": true,
+            "route_tracks": [
+                "T2",
+                "T4"
+            ]
+        },
+        "SW1->S2": {
+            "reachable": true,
+            "route_tracks": [
+                "T2",
+                "T4",
+                "T5"
+            ]
+        },
+        "SW1->S3": {
+            "reachable": true,
+            "route_tracks": [
+                "T3"
+            ]
+        },
+        "SW1->D1": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "SW2->S1": {
+            "reachable": true,
+            "route_tracks": [
+                "T2",
+                "T1"
+            ]
+        },
+        "SW2->SW1": {
+            "reachable": true,
+            "route_tracks": [
+                "T2"
+            ]
+        },
+        "SW2->CR1": {
+            "reachable": true,
+            "route_tracks": [
+                "T4"
+            ]
+        },
+        "SW2->S2": {
+            "reachable": true,
+            "route_tracks": [
+                "T4",
+                "T5"
+            ]
+        },
+        "SW2->S3": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "SW2->D1": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "CR1->S1": {
+            "reachable": true,
+            "route_tracks": [
+                "T4",
+                "T2",
+                "T1"
+            ]
+        },
+        "CR1->SW1": {
+            "reachable": true,
+            "route_tracks": [
+                "T4",
+                "T2"
+            ]
+        },
+        "CR1->SW2": {
+            "reachable": true,
+            "route_tracks": [
+                "T4"
+            ]
+        },
+        "CR1->S2": {
+            "reachable": true,
+            "route_tracks": [
+                "T5"
+            ]
+        },
+        "CR1->S3": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "CR1->D1": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "S2->S1": {
+            "reachable": true,
+            "route_tracks": [
+                "T5",
+                "T4",
+                "T2",
+                "T1"
+            ]
+        },
+        "S2->SW1": {
+            "reachable": true,
+            "route_tracks": [
+                "T5",
+                "T4",
+                "T2"
+            ]
+        },
+        "S2->SW2": {
+            "reachable": true,
+            "route_tracks": [
+                "T5",
+                "T4"
+            ]
+        },
+        "S2->CR1": {
+            "reachable": true,
+            "route_tracks": [
+                "T5"
+            ]
+        },
+        "S2->S3": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "S2->D1": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "S3->S1": {
+            "reachable": true,
+            "route_tracks": [
+                "T3",
+                "T1"
+            ]
+        },
+        "S3->SW1": {
+            "reachable": true,
+            "route_tracks": [
+                "T3"
+            ]
+        },
+        "S3->SW2": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "S3->CR1": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "S3->S2": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "S3->D1": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "D1->S1": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "D1->SW1": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "D1->SW2": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "D1->CR1": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "D1->S2": {
+            "reachable": false,
+            "route_tracks": []
+        },
+        "D1->S3": {
+            "reachable": false,
+            "route_tracks": []
+        }
+    },
+    "counterfactuals": [
+        {
+            "switch_id": "SW1",
+            "from_state": "diverted",
+            "to_state": "straight",
+            "newly_reachable": [
+                "S1->SW2",
+                "S1->CR1",
+                "S1->S2"
+            ],
+            "newly_blocked": [
+                "S1->S3"
+            ]
+        },
+        {
+            "switch_id": "SW2",
+            "from_state": "straight",
+            "to_state": "diverted",
+            "newly_reachable": [],
+            "newly_blocked": [
+                "SW1->CR1",
+                "SW1->S2"
+            ]
+        }
+    ]
+}

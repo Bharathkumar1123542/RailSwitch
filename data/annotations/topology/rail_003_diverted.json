@@ -1,0 +1,47 @@
+{
+  "topology_id": "rail_003_diverted",
+  "nodes": [
+    {
+      "id": "A",
+      "type": "station"
+    },
+    {
+      "id": "B",
+      "type": "switch"
+    },
+    {
+      "id": "C",
+      "type": "endpoint"
+    },
+    {
+      "id": "D",
+      "type": "endpoint"
+    }
+  ],
+  "tracks": [
+    {
+      "id": "T1",
+      "from": "A",
+      "to": "B"
+    },
+    {
+      "id": "T2",
+      "from": "B",
+      "to": "C"
+    },
+    {
+      "id": "T3",
+      "from": "B",
+      "to": "D"
+    }
+  ],
+  "switches": [
+    {
+      "id": "B",
+      "state": "diverted",
+      "incoming_track": "T1",
+      "straight_track": "T2",
+      "diverted_track": "T3"
+    }
+  ]
+}
