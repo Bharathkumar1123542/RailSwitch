@@ -1,0 +1,2018 @@
+[
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q1",
+        "model_answer": "straight"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q2",
+        "model_answer": "T2"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q3",
+        "model_answer": true
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q4",
+        "model_answer": "T1,T2"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q5",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q6",
+        "model_answer": true
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q1",
+        "model_answer": "straight"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q2",
+        "model_answer": "T2"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q3",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q4",
+        "model_answer": "T1,T2"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q5",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q6",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q3",
+        "model_answer": "straight"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q4",
+        "model_answer": "T4"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q5",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q6",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q7",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q8",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q9",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q10",
+        "model_answer": "T5,T4,T2"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q11",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q12",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q13",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q14",
+        "model_answer": "T3,T1"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q15",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q16",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q18",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q19",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q20",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q3",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q4",
+        "model_answer": "T6"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q5",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q6",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q7",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q8",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q9",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q10",
+        "model_answer": "T3,T1"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q11",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q12",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q13",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q14",
+        "model_answer": "T3,T1"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q15",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q16",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q18",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q19",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q20",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q3",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q4",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q5",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q6",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q3",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q4",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q5",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q6",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q1",
+        "model_answer": "straight"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q2",
+        "model_answer": "T2"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q3",
+        "model_answer": "straight"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q4",
+        "model_answer": "T4"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q5",
+        "model_answer": true
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q6",
+        "model_answer": "T1,T2,T4,T5"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q7",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q8",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q9",
+        "model_answer": true
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q10",
+        "model_answer": "T5,T4,T2,T1"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q11",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q12",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q13",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q14",
+        "model_answer": ""
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q15",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q16",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q18",
+        "model_answer": true
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q19",
+        "model_answer": true
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q20",
+        "model_answer": true
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q1",
+        "model_answer": "straight"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q2",
+        "model_answer": "T2"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q3",
+        "model_answer": "straight"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q4",
+        "model_answer": "T4"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q5",
+        "model_answer": true
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q6",
+        "model_answer": "T1,T2,T4,T5"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q7",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q8",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q9",
+        "model_answer": true
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q10",
+        "model_answer": "T5,T4,T2,T1"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q11",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q12",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q13",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q14",
+        "model_answer": ""
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q15",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q16",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q18",
+        "model_answer": false
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q19",
+        "model_answer": true
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q20",
+        "model_answer": true
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q3",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q4",
+        "model_answer": "T6"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q5",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q6",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q7",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q8",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q9",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q10",
+        "model_answer": "T5,T4"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q11",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q12",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q13",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q14",
+        "model_answer": "T3,T1"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q15",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q16",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q18",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q19",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q20",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q3",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q4",
+        "model_answer": "T6"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q5",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q6",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q7",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q8",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q9",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q10",
+        "model_answer": "T5,T4,T2"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q11",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q12",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q13",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q14",
+        "model_answer": "T3,T1"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q15",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q16",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q18",
+        "model_answer": "false"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q19",
+        "model_answer": "true"
+    },
+    {
+        "model": "qwen/qwen3.8-27b",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q20",
+        "model_answer": "true"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q1",
+        "model_answer": "straight"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q2",
+        "model_answer": "T2"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q3",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q4",
+        "model_answer": "T1,T2"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q5",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "schematic",
+        "question_id": "Q6",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q1",
+        "model_answer": "straight"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q2",
+        "model_answer": "T2"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q3",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q4",
+        "model_answer": "T1,T2"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q5",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_001",
+        "image_type": "realistic",
+        "question_id": "Q6",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q3",
+        "model_answer": "straight"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q4",
+        "model_answer": "T4"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q5",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q6",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q7",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q8",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q9",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q10",
+        "model_answer": "T5,T4,T2,T1"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q11",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q12",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q13",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q14",
+        "model_answer": "T3,T1"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q15",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q16",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q18",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q19",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "schematic",
+        "question_id": "Q20",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q3",
+        "model_answer": "straight"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q4",
+        "model_answer": "T4"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q5",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q6",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q7",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q8",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q9",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q10",
+        "model_answer": "T4,T2,T1"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q11",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q12",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q13",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q14",
+        "model_answer": "T3,T1"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q15",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q16",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q18",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q19",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_002_complex",
+        "image_type": "realistic",
+        "question_id": "Q20",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q3",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q4",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q5",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "schematic",
+        "question_id": "Q6",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q3",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q4",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q5",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_003_diverted",
+        "image_type": "realistic",
+        "question_id": "Q6",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q1",
+        "model_answer": "straight"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q2",
+        "model_answer": "T2"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q3",
+        "model_answer": "straight"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q4",
+        "model_answer": "T4"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q5",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q6",
+        "model_answer": "T1,T2,T4,T5"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q7",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q8",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q9",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q10",
+        "model_answer": "T5,T4,T2,T1"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q11",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q12",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q13",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q14",
+        "model_answer": ""
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q15",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q16",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q18",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q19",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "schematic",
+        "question_id": "Q20",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q1",
+        "model_answer": "straight"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q2",
+        "model_answer": "T2"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q3",
+        "model_answer": "straight"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q4",
+        "model_answer": "T4"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q5",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q6",
+        "model_answer": "T1,T2,T4,T5"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q7",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q8",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q9",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q10",
+        "model_answer": "T5,T4,T2,T1"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q11",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q12",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q13",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q14",
+        "model_answer": "T3,T1"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q15",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q16",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q18",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q19",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_004_yard_straight",
+        "image_type": "realistic",
+        "question_id": "Q20",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q3",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q4",
+        "model_answer": "T6"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q5",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q6",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q7",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q8",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q9",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q10",
+        "model_answer": "T5,T4,T2,T1"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q11",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q12",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q13",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q14",
+        "model_answer": "T3,T1"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q15",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q16",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q18",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q19",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "schematic",
+        "question_id": "Q20",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q1",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q2",
+        "model_answer": "T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q3",
+        "model_answer": "diverted"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q4",
+        "model_answer": "T6"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q5",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q6",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q7",
+        "model_answer": "T1,T3"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q8",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q9",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q10",
+        "model_answer": "T5,T4,T2,T1"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q11",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q12",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q13",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q14",
+        "model_answer": "T3,T1"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q15",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q16",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q17",
+        "model_answer": "T6"
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q18",
+        "model_answer": false
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q19",
+        "model_answer": true
+    },
+    {
+        "model": "gemini-3.5-flash-lite",
+        "topology_id": "rail_005_double_diverted",
+        "image_type": "realistic",
+        "question_id": "Q20",
+        "model_answer": true
+    }
+]

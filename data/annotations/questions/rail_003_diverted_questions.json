@@ -1,0 +1,50 @@
+[
+    {
+        "question_id": "Q1",
+        "topology_id": "rail_003_diverted",
+        "type": "switch_state",
+        "question": "What is the current state of switch B? Answer with 'straight' or 'diverted'.",
+        "answer": "diverted",
+        "answer_format": "string"
+    },
+    {
+        "question_id": "Q2",
+        "topology_id": "rail_003_diverted",
+        "type": "active_track",
+        "question": "Which outgoing track ID is currently active at switch B?",
+        "answer": "T3",
+        "answer_format": "track_id"
+    },
+    {
+        "question_id": "Q3",
+        "topology_id": "rail_003_diverted",
+        "type": "connectivity",
+        "question": "Under the current switch configuration, can a train travel from A to C? Answer true or false.",
+        "answer": false,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q4",
+        "topology_id": "rail_003_diverted",
+        "type": "connectivity",
+        "question": "Under the current switch configuration, can a train travel from A to D? Answer true or false.",
+        "answer": true,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q5",
+        "topology_id": "rail_003_diverted",
+        "type": "route_reasoning",
+        "question": "List the exact sequence of track IDs (comma-separated, e.g. T1,T2) a train takes from A to D.",
+        "answer": "T1,T3",
+        "answer_format": "track_sequence"
+    },
+    {
+        "question_id": "Q6",
+        "topology_id": "rail_003_diverted",
+        "type": "counterfactual",
+        "question": "If switch B were changed to 'straight', could a train travel from A to C? Answer true or false.",
+        "answer": true,
+        "answer_format": "boolean"
+    }
+]

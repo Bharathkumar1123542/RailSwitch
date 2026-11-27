@@ -1,0 +1,162 @@
+[
+    {
+        "question_id": "Q1",
+        "topology_id": "rail_004_yard_straight",
+        "type": "switch_state",
+        "question": "What is the current state of switch SW1? Answer with 'straight' or 'diverted'.",
+        "answer": "straight",
+        "answer_format": "string"
+    },
+    {
+        "question_id": "Q2",
+        "topology_id": "rail_004_yard_straight",
+        "type": "active_track",
+        "question": "Which outgoing track ID is currently active at switch SW1?",
+        "answer": "T2",
+        "answer_format": "track_id"
+    },
+    {
+        "question_id": "Q3",
+        "topology_id": "rail_004_yard_straight",
+        "type": "switch_state",
+        "question": "What is the current state of switch SW2? Answer with 'straight' or 'diverted'.",
+        "answer": "straight",
+        "answer_format": "string"
+    },
+    {
+        "question_id": "Q4",
+        "topology_id": "rail_004_yard_straight",
+        "type": "active_track",
+        "question": "Which outgoing track ID is currently active at switch SW2?",
+        "answer": "T4",
+        "answer_format": "track_id"
+    },
+    {
+        "question_id": "Q5",
+        "topology_id": "rail_004_yard_straight",
+        "type": "connectivity",
+        "question": "Under the current switch configuration, can a train travel from S1 to S2? Answer true or false.",
+        "answer": true,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q6",
+        "topology_id": "rail_004_yard_straight",
+        "type": "route_reasoning",
+        "question": "List the exact sequence of track IDs (comma-separated, e.g. T1,T2) a train takes from S1 to S2.",
+        "answer": "T1,T2,T4,T5",
+        "answer_format": "track_sequence"
+    },
+    {
+        "question_id": "Q7",
+        "topology_id": "rail_004_yard_straight",
+        "type": "connectivity",
+        "question": "Under the current switch configuration, can a train travel from S1 to S3? Answer true or false.",
+        "answer": false,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q8",
+        "topology_id": "rail_004_yard_straight",
+        "type": "connectivity",
+        "question": "Under the current switch configuration, can a train travel from S1 to D1? Answer true or false.",
+        "answer": false,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q9",
+        "topology_id": "rail_004_yard_straight",
+        "type": "connectivity",
+        "question": "Under the current switch configuration, can a train travel from S2 to S1? Answer true or false.",
+        "answer": true,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q10",
+        "topology_id": "rail_004_yard_straight",
+        "type": "route_reasoning",
+        "question": "List the exact sequence of track IDs (comma-separated, e.g. T1,T2) a train takes from S2 to S1.",
+        "answer": "T5,T4,T2,T1",
+        "answer_format": "track_sequence"
+    },
+    {
+        "question_id": "Q11",
+        "topology_id": "rail_004_yard_straight",
+        "type": "connectivity",
+        "question": "Under the current switch configuration, can a train travel from S2 to S3? Answer true or false.",
+        "answer": false,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q12",
+        "topology_id": "rail_004_yard_straight",
+        "type": "connectivity",
+        "question": "Under the current switch configuration, can a train travel from S2 to D1? Answer true or false.",
+        "answer": false,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q13",
+        "topology_id": "rail_004_yard_straight",
+        "type": "connectivity",
+        "question": "Under the current switch configuration, can a train travel from S3 to S1? Answer true or false.",
+        "answer": true,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q14",
+        "topology_id": "rail_004_yard_straight",
+        "type": "route_reasoning",
+        "question": "List the exact sequence of track IDs (comma-separated, e.g. T1,T2) a train takes from S3 to S1.",
+        "answer": "T3,T1",
+        "answer_format": "track_sequence"
+    },
+    {
+        "question_id": "Q15",
+        "topology_id": "rail_004_yard_straight",
+        "type": "connectivity",
+        "question": "Under the current switch configuration, can a train travel from S3 to S2? Answer true or false.",
+        "answer": false,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q16",
+        "topology_id": "rail_004_yard_straight",
+        "type": "connectivity",
+        "question": "Under the current switch configuration, can a train travel from S3 to D1? Answer true or false.",
+        "answer": false,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q17",
+        "topology_id": "rail_004_yard_straight",
+        "type": "fault_detection",
+        "question": "Which track ID has a physical break/discontinuity fault preventing train passage?",
+        "answer": "T6",
+        "answer_format": "track_id"
+    },
+    {
+        "question_id": "Q18",
+        "topology_id": "rail_004_yard_straight",
+        "type": "crossing_reasoning",
+        "question": "At crossing/overpass CR1, can a train turn onto the intersecting track? Answer true or false.",
+        "answer": false,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q19",
+        "topology_id": "rail_004_yard_straight",
+        "type": "counterfactual",
+        "question": "If switch SW1 were changed to 'diverted', could a train travel from S1 to S3? Answer true or false.",
+        "answer": true,
+        "answer_format": "boolean"
+    },
+    {
+        "question_id": "Q20",
+        "topology_id": "rail_004_yard_straight",
+        "type": "counterfactual",
+        "question": "If switch SW2 were changed to 'diverted', could a train still travel from S1 to CR1? Answer true or false.",
+        "answer": false,
+        "answer_format": "boolean"
+    }
+]
